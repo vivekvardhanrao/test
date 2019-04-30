@@ -7,7 +7,7 @@ CREATE TABLE IF NOT EXISTS Employeeinfo(
  PRIMARY KEY(name));
 
 
-
+asdfghjkl;
 
 
 https://dev.mysql.com/downloads/installer/
